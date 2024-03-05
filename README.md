@@ -1,5 +1,9 @@
 # Unlocking-Insights---Mitron-Bank-s-Financial-world.
 
+![Mitron bank](https://github.com/RavinaKarnik/Unlocking-Insights---Mitron-Bank-s-Financial-world./assets/130289037/0669b3ac-9b72-4111-872d-e289dfe57b00)
+
+
+
 ## Project Statement:
 Mitron Bank is gearing up to launch a new series of credit cards, and I've delved into a comprehensive data analysis to formulate an effective credit card strategy.
 
